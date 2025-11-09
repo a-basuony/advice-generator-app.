@@ -83,7 +83,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://advice-generator-app.vercel.app)
+[View Live Demo](https://advice-generator-app-ochre-gamma.vercel.app/)
 
 ---
 
