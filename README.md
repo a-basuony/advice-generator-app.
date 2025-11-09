@@ -61,7 +61,7 @@ src/
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/advice-generator-app.git
+git clone https://github.com/a-basuony/advice-generator-app.git
 cd advice-generator-app
 ````
 
@@ -105,8 +105,5 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 📌 License
-
-This project is **MIT licensed**.
 
 
