@@ -1,4 +1,3 @@
-Got it, Ahmed! Let’s make your README **beautiful, readable, and professional** with proper headings, sections, and some badges for extra polish. Here’s a full version for your Advice Generator App:
 
 ```markdown
 # 🎲 Advice Generator App
