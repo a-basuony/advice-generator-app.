@@ -1,5 +1,4 @@
 
-```markdown
 # 🎲 Advice Generator App
 
 A **React** app that fetches random advice from an API and displays it in a card.  
@@ -29,25 +28,26 @@ Click the 🎲 button to get a new advice. Designed with **Tailwind CSS** and a 
 ## 🎨 Colors (Tailwind Config)
 
 | Color       | Value                 |
-| ----------- | --------------------- |
-| Primary 200 | `hsl(193, 38%, 86%)`  |
-| Primary 600 | `hsl(217, 19%, 38%)`  |
-| Primary 900 | `hsl(217, 19%, 24%)`  |
-| Primary 950 | `hsl(218, 23%, 16%)`  |
+| ----------- | -------------------- |
+| Primary 200 | `hsl(193, 38%, 86%)` |
+| Primary 600 | `hsl(217, 19%, 38%)` |
+| Primary 900 | `hsl(217, 19%, 24%)` |
+| Primary 950 | `hsl(218, 23%, 16%)` |
 | Accent 300  | `hsl(150, 100%, 66%)` |
 
 ---
 
 ## 📁 Project Structure
+
 ```
 
 src/
 ├── components/
-│ ├── AdviceCard.jsx
-│ ├── Button.jsx
-│ └── LoadingSkeleton.jsx
+│   ├── AdviceCard.jsx
+│   ├── Button.jsx
+│   └── LoadingSkeleton.jsx
 ├── hooks/
-│ └── useAdvice.js
+│   └── useAdvice.js
 ├── App.jsx
 ├── index.css
 └── main.jsx
@@ -57,7 +57,9 @@ src/
 ---
 
 ## 🚀 Installation & Running
+
 1. Clone the repo:
+
 ```bash
 git clone https://github.com/YOUR_USERNAME/advice-generator-app.git
 cd advice-generator-app
@@ -96,10 +98,10 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 💡 Notes
 
-- Tailwind CSS is used for styling and responsive design.
-- Smooth **hover effects** and **shadow animations** for UI polish.
-- Dark theme and accent colors from Tailwind config.
-- Fully responsive for mobile and desktop devices.
+* Tailwind CSS is used for styling and responsive design.
+* Smooth **hover effects** and **shadow animations** for UI polish.
+* Dark theme and accent colors from Tailwind config.
+* Fully responsive for mobile and desktop devices.
 
 ---
 
@@ -107,16 +109,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 This project is **MIT licensed**.
 
-```
 
----
-
-This README is:
-- **Well-structured** (sections, tables, headings)
-- **Readable** (not just compressed text)
-- **Professional** (live demo, tech stack, colors, usage, license)
-
-If you want, I can also make it **even prettier with emojis, badges, and a screenshot of the app** at the top — this will make it **look like a professional GitHub repo**.
-
-Do you want me to do that?
-```
